@@ -14,6 +14,7 @@ import PomClasses.Loginpage;
 
 public class VerifyUserCanLogin {
 	WebDriver driver;
+	
 	Loginpage lp;
 	Homepage hp;
 	@BeforeClass
